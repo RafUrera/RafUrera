@@ -11,6 +11,8 @@
   - [Applying Filters to SQL Queries](https://github.com/RafUrera/Applying-Filters-to-SQL-Queries)
 - <b>Linux</b>
   - [Setting up Linux File Permissions](https://github.com/RafUrera/LinuxFilePermissionsPortfolio)
+- <b>Python</b>
+  - [Python Algorithm for File Updates](https://github.com/RafUrera/Python-Algorithm-for-File-Updates) 
 
 <h2>Other Projects</h2>
 - Blender Art - Using Python in Blender
