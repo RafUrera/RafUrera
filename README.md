@@ -5,8 +5,8 @@
 
 - <b>Security Analyst</b>
   - [Setting up Linux File Permissions](https://github.com/RafUrera/LinuxFilePermissionsPortfolio)
-- <b>Header</b>
-  - [SQL Example](link)
+- <b>SQL</b>
+  - [Applying Filters to SQL Queries](https://github.com/RafUrera/Applying-Filters-to-SQL-Queries)
 - <b>PowerShell</b>
   - [Example](Link)
   
