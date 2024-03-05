@@ -5,15 +5,11 @@
 
 - <b>Cybersecurity Analyst</b>
   - [Vulnerability Assessment Report Example](https://docs.google.com/document/d/1huawJU8CN8NpNtFwcmoMrebvx3bbtQXatCdo5iC86FQ/edit?usp=sharing&resourcekey=0-jza_ll-DJafHGBa2wWDRcg)
+(  - [Incident Handler's Journal Example](https://docs.google.com/document/d/1C6-XkT7aAPP0QNy2ycR2FonAQkMwB9GWfZuV2O9gD_w/edit?usp=sharing)
 - <b>SQL</b>
   - [Applying Filters to SQL Queries](https://github.com/RafUrera/Applying-Filters-to-SQL-Queries)
 - <b>Linux</b>
   - [Setting up Linux File Permissions](https://github.com/RafUrera/LinuxFilePermissionsPortfolio)
-    
-- <b>Example(bleh)</b>
-  -
-- <b>Linux</b>
-  - [Example](Link)
 
 <h2>Other Projects</h2>
 - Blender Art - Using Python in Blender
