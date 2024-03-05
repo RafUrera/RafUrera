@@ -4,16 +4,16 @@
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
 - <b>Security Analyst</b>
-  - [Setting up Linux File Permissions](https://github.com/RafUrera/LinuxFilePermissionsPortfolio)
+  - [Vulnerability Assessment Report Example]
 - <b>SQL</b>
   - [Applying Filters to SQL Queries](https://github.com/RafUrera/Applying-Filters-to-SQL-Queries)
-- <b>PowerShell</b>
+- <b>Linux</b>
   - [Example](Link)
   
 - <b>Example(bleh)</b>
   -
-- <b>Python</b>
-  - [example)](Link)
+- <b>Linux</b>
+  - [Setting up Linux File Permissions](https://github.com/RafUrera/LinuxFilePermissionsPortfolio)
 
 <h2>Other Projects</h2>
 - Blender Art - Using Python in Blender
