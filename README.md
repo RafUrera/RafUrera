@@ -14,8 +14,6 @@
 - <b>Python</b>
   - [Python Algorithm for File Updates](https://github.com/RafUrera/Python-Algorithm-for-File-Updates) 
 
-<h2>Other Projects</h2>
-- Blender Art - Using Python in Blender
 
 <!--
 **RafUrera/RafUrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
