@@ -10,7 +10,7 @@
 - <b>SQL</b>
   - [Applying Filters to SQL Queries](https://github.com/RafUrera/Applying-Filters-to-SQL-Queries)
 - <b>Linux</b>
-  - [Set Up Linux File Permissions](https://github.com/RafUrera/LinuxFilePermissionsPortfolio)
+  - [Changing File Permissions in Linux](https://github.com/RafUrera/LinuxFilePermissionsPortfolio)
 - <b>Python</b>
   - [Python Algorithm for File Updates](https://github.com/RafUrera/Python-Algorithm-for-File-Updates) 
 
